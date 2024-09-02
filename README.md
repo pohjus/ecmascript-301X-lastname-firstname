@@ -1,4 +1,4 @@
-# Frontend Development / ECMAScript Essentials Exercises
+# Frontend Development / ECMAScript Essentials Exercises 2024
 
 Welcome to the **Frontend Development / ECMAScript Essentials** exercises repository! This repository provides a series of exercises designed to enhance your skills in frontend development and ECMAScript.
 
